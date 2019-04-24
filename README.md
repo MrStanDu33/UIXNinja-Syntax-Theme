@@ -1,4 +1,7 @@
 # Ninja-UI Syntax Theme, for Visual Studio Code 
+
+## Look on Visual Studio Code's [Marketplace](https://marketplace.visualstudio.com/items?itemName=danielsrothstan.uixninja-theme)
+
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/issues)
 [![star this repo](http://githubbadges.com/star.svg?user=mrstandu33&repo=UIXNinja-Synthax-Theme&style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme)
 [![fork this repo](http://githubbadges.com/fork.svg?user=mrstandu33&repo=UIXNinja-Synthax-Theme&style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/fork)
@@ -10,10 +13,6 @@
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 [![Badge for installs for Visual Studio Code extension danielsrothstan.uixninja-theme](https://vsmarketplacebadge.apphb.com/installs/danielsrothstan.uixninja-theme.svg)](https://marketplace.visualstudio.com/items?itemName=danielsrothstan.uixninja-theme)
-
-
-
-
 
 Handmade syntax theme for Visual Studio Code inspired by
 [this Dribbble shot](https://dribbble.com/shots/2932388-code-editor-redesign)
