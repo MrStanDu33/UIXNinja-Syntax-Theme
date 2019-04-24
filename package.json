@@ -9,6 +9,10 @@
       "color": "#8362E0",
       "theme": "dark"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mrstandu33/UIXNinja-Synthax-Theme"
+      },
     "engines": {
         "vscode": "^1.31.0"
     },
