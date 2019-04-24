@@ -3,7 +3,7 @@
 ## Look on Visual Studio Code's [Marketplace](https://marketplace.visualstudio.com/items?itemName=danielsrothstan.uixninja-theme)
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.png?style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/issues)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.png)](https://GitHub.com/mrstandu33/UIXNinja-Synthax-Theme/releases/)
+[![GitHub release](https://img.shields.io/github/release/mrstandu33/UIXNinja-Synthax-Theme.png)](https://GitHub.com/mrstandu33/UIXNinja-Synthax-Theme/releases/)
 
 [![GitHub license](https://img.shields.io/github/license/mrstandu33/UIXNinja-Synthax-Theme.png)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.png)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/graphs/commit-activity)
