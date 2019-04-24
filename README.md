@@ -1,4 +1,19 @@
-# Ninja-UI Syntax Theme, for Visual Studio Code
+# Ninja-UI Syntax Theme, for Visual Studio Code 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/issues)
+[![star this repo](http://githubbadges.com/star.svg?user=mrstandu33&repo=UIXNinja-Synthax-Theme&style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme)
+[![fork this repo](http://githubbadges.com/fork.svg?user=mrstandu33&repo=UIXNinja-Synthax-Theme&style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/fork)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+
+[![Known Vulnerabilities](https://snyk.io/test/github/mrstandu33/UIXNinja-Synthax-Theme/badge.svg?targetFile=package.json)](https://snyk.io/test/github/mrstandu33/UIXNinja-Synthax-Theme?targetFile=package.json)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/graphs/commit-activity)
+
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+[![Badge for installs for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/installs/danielsrothstan.uixninja-theme.svg)](https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode)
+
+
+
+
 
 Handmade syntax theme for Visual Studio Code inspired by
 [this Dribbble shot](https://dribbble.com/shots/2932388-code-editor-redesign)
