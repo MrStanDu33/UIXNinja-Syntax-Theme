@@ -1,4 +1,4 @@
-# Ninja-UI Syntax Theme, for Atom
+# Ninja-UI Syntax Theme, for Visual Studio Code
 
 Handmade syntax theme for Visual Studio Code inspired by
 [this Dribbble shot](https://dribbble.com/shots/2932388-code-editor-redesign)
