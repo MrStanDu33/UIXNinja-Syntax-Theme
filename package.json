@@ -1,0 +1,28 @@
+{
+    "name": "uixninja-theme",
+    "displayName": "UIXNinja Synthax Theme",
+    "description": "Theme inspired of the Atom's theme https://github.com/licatajustin/ninja-ui-syntax",
+    "version": "0.0.1",
+    "publisher": "danielsrothstan",
+    "author": "Daniels-Roth Stan [@mrstandu33]",
+    "galleryBanner": {
+      "color": "#8362E0",
+      "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ninja-UI Syntax Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ninja-UI Syntax Theme-color-theme.json"
+            }
+        ]
+    }
+}
