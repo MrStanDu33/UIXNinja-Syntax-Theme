@@ -119,4 +119,4 @@ As you can see, I am using [Museo Sans font](https://www.dafontfree.net/freefont
 
 ### License
 
-MIT @ [Justin Licata](https://daniels-roth-stan.fr)
+MIT @ [Daniels-Roth Stan](https://daniels-roth-stan.fr)
