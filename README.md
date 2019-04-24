@@ -2,17 +2,17 @@
 
 ## Look on Visual Studio Code's [Marketplace](https://marketplace.visualstudio.com/items?itemName=danielsrothstan.uixninja-theme)
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.png?style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/issues)
 [![star this repo](https://githubbadges.com/star.svg?user=mrstandu33&repo=UIXNinja-Synthax-Theme&style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme)
 [![fork this repo](https://githubbadges.com/fork.svg?user=mrstandu33&repo=UIXNinja-Synthax-Theme&style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/fork)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/mrstandu33/UIXNinja-Synthax-Theme/releases/)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.png)](https://GitHub.com/mrstandu33/UIXNinja-Synthax-Theme/releases/)
 
-[![Known Vulnerabilities](https://snyk.io/test/github/mrstandu33/UIXNinja-Synthax-Theme/badge.svg?targetFile=package.json)](https://snyk.io/test/github/mrstandu33/UIXNinja-Synthax-Theme?targetFile=package.json)
-[![GitHub license](https://img.shields.io/github/license/mrstandu33/UIXNinja-Synthax-Theme.svg)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/graphs/commit-activity)
+[![Known Vulnerabilities](https://snyk.io/test/github/mrstandu33/UIXNinja-Synthax-Theme/badge.png?targetFile=package.json)](https://snyk.io/test/github/mrstandu33/UIXNinja-Synthax-Theme?targetFile=package.json)
+[![GitHub license](https://img.shields.io/github/license/mrstandu33/UIXNinja-Synthax-Theme.png)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.png)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/graphs/commit-activity)
 
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-[![Badge for installs for Visual Studio Code extension danielsrothstan.uixninja-theme](https://vsmarketplacebadge.apphb.com/installs/danielsrothstan.uixninja-theme.svg)](https://marketplace.visualstudio.com/items?itemName=danielsrothstan.uixninja-theme)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.png)](https://code.visualstudio.com/)
+[![Badge for installs for Visual Studio Code extension danielsrothstan.uixninja-theme](https://vsmarketplacebadge.apphb.com/installs/danielsrothstan.uixninja-theme.png)](https://marketplace.visualstudio.com/items?itemName=danielsrothstan.uixninja-theme)
 
 Handmade syntax theme for Visual Studio Code inspired by
 [this Dribbble shot](https://dribbble.com/shots/2932388-code-editor-redesign)
