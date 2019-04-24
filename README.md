@@ -3,8 +3,8 @@
 ## Look on Visual Studio Code's [Marketplace](https://marketplace.visualstudio.com/items?itemName=danielsrothstan.uixninja-theme)
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/issues)
-[![star this repo](http://githubbadges.com/star.svg?user=mrstandu33&repo=UIXNinja-Synthax-Theme&style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme)
-[![fork this repo](http://githubbadges.com/fork.svg?user=mrstandu33&repo=UIXNinja-Synthax-Theme&style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/fork)
+[![star this repo](https://githubbadges.com/star.svg?user=mrstandu33&repo=UIXNinja-Synthax-Theme&style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme)
+[![fork this repo](https://githubbadges.com/fork.svg?user=mrstandu33&repo=UIXNinja-Synthax-Theme&style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/fork)
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/mrstandu33/UIXNinja-Synthax-Theme/releases/)
 
 [![Known Vulnerabilities](https://snyk.io/test/github/mrstandu33/UIXNinja-Synthax-Theme/badge.svg?targetFile=package.json)](https://snyk.io/test/github/mrstandu33/UIXNinja-Synthax-Theme?targetFile=package.json)
