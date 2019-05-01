@@ -18,9 +18,9 @@ by
 based on 
 [this Atom theme](https://github.com/licatajustin/ninja-ui-syntax)
 
----
+![Banner DANIELS-ROTH Stan x UIXNinja](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/banner.png)
 
-### Installation
+# Installation
 
 Launch *Quick Open*:
   - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
@@ -60,7 +60,27 @@ Launch *Quick Open*:
 
 Type `theme`, choose `Preferences: Color Theme`, and select Ninja-UI Syntax Theme from the list.
 
-## Recommended settings for a better experience
+# Screenshots
+
+*JavaScript*
+![Screenshot of JavaScript](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/vue.js.png)
+
+*PHP*
+![Screenshot of PHP](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/laravel.php.png)
+
+*HTML5*
+![Screenshot of HTML5](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/angular.js.html.png)
+
+*CSS3*
+![Screenshot of CSS3](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/font-awesome.css.png)
+
+*C*
+![Screenshot of C](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/git.c.png)
+
+*Ruby*
+![Screenshot of Ruby](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/ruby.rb.png)
+
+# Recommended settings for a better experience
 
 I usually use this theme with theses settings :
 ```js
