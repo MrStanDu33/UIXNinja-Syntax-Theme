@@ -5,7 +5,11 @@
     "version": "1.10.0",
     "publisher": "danielsrothstan",
     "license": "MIT",
-    "author": "Daniels-Roth Stan [@mrstandu33]",
+    "author": {
+      "email": "contact@daniels-roth-stan.fr",
+      "name": "Daniels-Roth Stan",
+      "url": "https://daniels-roth-stan.fr"
+    },
     "preview": false,
     "bugs": {
         "url": "https://github.com/mrstandu33/UIXNinja-Synthax-Theme/issues",
