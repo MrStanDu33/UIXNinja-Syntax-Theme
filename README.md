@@ -1,4 +1,4 @@
-# Ninja-UI Syntax Theme, for Visual Studio Code 
+# UIXNinja Syntax Theme, for Visual Studio Code 
 
 ## Look on Visual Studio Code's [Marketplace](https://marketplace.visualstudio.com/items?itemName=danielsrothstan.uixninja-theme)
 
