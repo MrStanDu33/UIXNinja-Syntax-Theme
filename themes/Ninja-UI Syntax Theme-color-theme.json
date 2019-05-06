@@ -28,11 +28,9 @@
 				"comment.line"
 			],
 			"settings": {
-				"foreground": "#7274b0",
+				"foreground": "#7274b0"
 			}
 		},
-		
-		
 		{
 			"name": "cyan",
 			"scope": [
@@ -92,8 +90,6 @@
 				"foreground": "#f6d47d"
 			}
 		},
-
-
 		{
 			"name": "RED10%",
 			"scope": [
@@ -103,8 +99,6 @@
 				"foreground": "#E46199"
 			}
 		},
-
-		
 		{
 			"name": "underline",
 			"scope": [
