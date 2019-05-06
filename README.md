@@ -1,6 +1,6 @@
 # Ninja-UI Syntax Theme, for Visual Studio Code 
 
-## Look on Visual Studio Code's [Marketplace](https://marketplace.visualstudio.com/items?itemName=danielsrothstan.uixninja-theme)
+Look on Visual Studio Code's [Marketplace](https://marketplace.visualstudio.com/items?itemName=danielsrothstan.uixninja-theme)
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.png?style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/issues)
 [![GitHub release](https://img.shields.io/github/release/mrstandu33/UIXNinja-Synthax-Theme.png)](https://GitHub.com/mrstandu33/UIXNinja-Synthax-Theme/releases/)
@@ -20,12 +20,12 @@ based on
 
 ![Banner DANIELS-ROTH Stan x UIXNinja](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/banner.png)
 
-# Installation
+## Installation
 
 Launch *Quick Open*:
-  - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
-  - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘P`
-  - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl+P`
+- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
+- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘P`
+- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl+P`
 
 Paste the following command and press `Enter`:
 
@@ -35,14 +35,14 @@ ext install uixninja-theme
 
 And pick the one by **Daniels-Roth Stan** (me) as author.
 
-##### GitHub Repository Clone
+## GitHub Repository Clone
 
 Change to your `.vscode/extensions` [VS Code extensions directory](https://code.visualstudio.com/docs/extensions/install-extension#_side-loading).
 Depending on your platform it is located in the following folders:
 
-  - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> **Linux** `~/.vscode/extensions`
-  - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> **macOs** `~/.vscode/extensions`
-  - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> **Windows** `%USERPROFILE%\.vscode\extensions`
+- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> **Linux** `~/.vscode/extensions`
+- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> **macOs** `~/.vscode/extensions`
+- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> **Windows** `%USERPROFILE%\.vscode\extensions`
 
 Clone the Material Theme repository as `danielsrothstan.uixninja-theme`:
 
@@ -54,13 +54,13 @@ git clone https://github.com/mrstandu33/UIXNinja-Synthax-Theme.git danielsrothst
 
 Launch *Quick Open*:
 
-  - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl + Shift + P`
-  - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
-  - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
+- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl + Shift + P`
+- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
+- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
 
 Type `theme`, choose `Preferences: Color Theme`, and select Ninja-UI Syntax Theme from the list.
 
-# Screenshots
+## Screenshots
 
 *JavaScript*
 ![Screenshot of JavaScript](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/vue.js.png)
@@ -80,7 +80,7 @@ Type `theme`, choose `Preferences: Color Theme`, and select Ninja-UI Syntax Them
 *Ruby*
 ![Screenshot of Ruby](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/ruby.rb.png)
 
-# Recommended settings for a better experience
+## Recommended settings for a better experience
 
 I usually use this theme with theses settings :
 ```js
@@ -148,6 +148,6 @@ Finally, restart Visual Studio Code and enjoy your new workstation !
 
 As you can see, I am using [Museo Sans font](https://www.dafontfree.net/freefonts-museo-sans-f95072.htm) and [Operator Mono font](https://www.typography.com/fonts/operator/styles/), both can be found on those websites, but you can change for any other fonts.
 
-### License
+## License
 
 MIT @ [Daniels-Roth Stan](https://daniels-roth-stan.fr)
