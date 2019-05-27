@@ -2,9 +2,21 @@
     "name": "uixninja-theme",
     "displayName": "UIXNinja Synthax Theme",
     "description": "Theme inspired of the Atom's theme https://github.com/licatajustin/ninja-ui-syntax",
-    "version": "1.0.2",
+    "version": "1.10.0",
     "publisher": "danielsrothstan",
-    "author": "Daniels-Roth Stan [@mrstandu33]",
+    "license": "MIT",
+    "author": {
+      "email": "contact@daniels-roth-stan.fr",
+      "name": "Daniels-Roth Stan",
+      "url": "https://daniels-roth-stan.fr"
+    },
+    "preview": false,
+    "bugs": {
+        "url": "https://github.com/mrstandu33/UIXNinja-Synthax-Theme/issues",
+        "email": "contact@daniels-roth-stan.fr"
+    },
+    "homepage": "https://github.com/mrstandu33/UIXNinja-Synthax-Theme",
+    "icon": "assets/logo.png",
     "galleryBanner": {
         "color": "#8362E0",
         "theme": "dark"
