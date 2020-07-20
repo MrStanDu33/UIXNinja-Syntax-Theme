@@ -44,7 +44,7 @@
         "list.highlightForeground": "#D7DAE0",
         "list.inactiveSelectionBackground": "#303351",
         "list.inactiveSelectionForeground": "#D7DAE0",
-        "notification.background": "#1b1d2d",
+        "notifications.background": "#1b1d2d",
         "pickerGroup.border": "#528BFF",
         "scrollbarSlider.background": "#4E566680",
         "scrollbarSlider.activeBackground": "#747D9180",
