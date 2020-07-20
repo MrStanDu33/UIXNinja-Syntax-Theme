@@ -1,12 +1,12 @@
-# UIXNinja Syntax Theme, for Visual Studio Code 
+# UIXNinja Syntax Theme, for Visual Studio Code
 
 Look on Visual Studio Code's [Marketplace](https://marketplace.visualstudio.com/items?itemName=danielsrothstan.uixninja-theme)
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.png?style=flat)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/issues)
-[![GitHub release](https://img.shields.io/github/release/mrstandu33/UIXNinja-Synthax-Theme.png)](https://GitHub.com/mrstandu33/UIXNinja-Synthax-Theme/releases/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.png?style=flat)](https://github.com/MrStanDu33/UIXNinja-Syntax-Theme/issues)
+[![GitHub release](https://img.shields.io/github/release/MrStanDu33/UIXNinja-Syntax-Theme.png)](https://GitHub.com/MrStanDu33/UIXNinja-Syntax-Theme/releases/)
 
-[![GitHub license](https://img.shields.io/github/license/mrstandu33/UIXNinja-Synthax-Theme.png)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.png)](https://github.com/mrstandu33/UIXNinja-Synthax-Theme/graphs/commit-activity)
+[![GitHub license](https://img.shields.io/github/license/MrStanDu33/UIXNinja-Syntax-Theme.png)](https://github.com/MrStanDu33/UIXNinja-Syntax-Theme/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.png)](https://github.com/MrStanDu33/UIXNinja-Syntax-Theme/graphs/commit-activity)
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.png)](https://code.visualstudio.com/)
 [![Badge for installs for Visual Studio Code extension danielsrothstan.uixninja-theme](https://vsmarketplacebadge.apphb.com/installs/danielsrothstan.uixninja-theme.png)](https://marketplace.visualstudio.com/items?itemName=danielsrothstan.uixninja-theme)
@@ -15,10 +15,10 @@ Handmade syntax theme for Visual Studio Code inspired by
 [this Dribbble shot](https://dribbble.com/shots/2932388-code-editor-redesign)
 by
 [uixninja](https://dribbble.com/uixninja),
-based on 
+based on
 [this Atom theme](https://github.com/licatajustin/ninja-ui-syntax)
 
-![Banner DANIELS-ROTH Stan x UIXNinja](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/banner.png)
+![Banner DANIELS-ROTH Stan x UIXNinja](https://raw.githubusercontent.com/MrStanDu33/UIXNinja-Syntax-Theme/master/assets/banner.png)
 
 ## Installation
 
@@ -47,7 +47,7 @@ Depending on your platform it is located in the following folders:
 Clone the Material Theme repository as `danielsrothstan.uixninja-theme`:
 
 ```shell
-git clone https://github.com/mrstandu33/UIXNinja-Synthax-Theme.git danielsrothstan.uixninja-theme
+git clone https://github.com/MrStanDu33/UIXNinja-Syntax-Theme.git danielsrothstan.uixninja-theme
 ```
 
 ## Activate theme
@@ -63,22 +63,22 @@ Type `theme`, choose `Preferences: Color Theme`, and select Ninja-UI Syntax Them
 ## Screenshots
 
 *JavaScript*
-![Screenshot of JavaScript](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/vue.js.png)
+![Screenshot of JavaScript](https://raw.githubusercontent.com/MrStanDu33/UIXNinja-Syntax-Theme/master/assets/vue.js.png)
 
 *PHP*
-![Screenshot of PHP](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/laravel.php.png)
+![Screenshot of PHP](https://raw.githubusercontent.com/MrStanDu33/UIXNinja-Syntax-Theme/master/assets/laravel.php.png)
 
 *HTML5*
-![Screenshot of HTML5](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/angular.js.html.png)
+![Screenshot of HTML5](https://raw.githubusercontent.com/MrStanDu33/UIXNinja-Syntax-Theme/master/assets/angular.js.html.png)
 
 *CSS3*
-![Screenshot of CSS3](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/font-awesome.css.png)
+![Screenshot of CSS3](https://raw.githubusercontent.com/MrStanDu33/UIXNinja-Syntax-Theme/master/assets/font-awesome.css.png)
 
 *C*
-![Screenshot of C](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/git.c.png)
+![Screenshot of C](https://raw.githubusercontent.com/MrStanDu33/UIXNinja-Syntax-Theme/master/assets/git.c.png)
 
 *Ruby*
-![Screenshot of Ruby](https://raw.githubusercontent.com/mrstandu33/UIXNinja-Synthax-Theme/master/assets/ruby.rb.png)
+![Screenshot of Ruby](https://raw.githubusercontent.com/MrStanDu33/UIXNinja-Syntax-Theme/master/assets/ruby.rb.png)
 
 ## Recommended settings for a better experience
 
