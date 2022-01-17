@@ -35,9 +35,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Ninja-UI Syntax Theme",
+                "label": "UIXNinja Syntax Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Ninja-UI Syntax Theme-color-theme.json"
+                "path": "./themes/UIXNinja-Syntax-Theme-color-theme.json"
             }
         ]
     }
